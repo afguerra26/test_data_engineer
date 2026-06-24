@@ -1,0 +1,9 @@
+.env
+logs/
+data/raw/
+data/staging/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+data/
